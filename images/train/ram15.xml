@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ram15.jpg</filename>
+	<path>/Users/admin/Documents/Projects/computer-part-detector/images/ram15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ram</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>32</ymin>
+			<xmax>208</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

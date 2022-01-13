@@ -1,0 +1,26 @@
+<annotation>
+	<folder>processor</folder>
+	<filename>processor2.jpg</filename>
+	<path>/Users/admin/Documents/Projects/computer-part-detector/images/processor/processor2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>processor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>129</ymin>
+			<xmax>618</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

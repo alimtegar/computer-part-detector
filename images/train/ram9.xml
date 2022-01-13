@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>ram9.webp</filename>
+	<path>/Users/admin/Documents/Projects/computer-part-detector/images/ram9.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>576</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ram</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>108</ymin>
+			<xmax>732</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>
